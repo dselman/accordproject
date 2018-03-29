@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accord Project</title>
+    <link>http://accordproject.siteleaf.net/</link>
+    <atom:link href="http://accordproject.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Mar 2018 10:38:25 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Mar 2018 10:38:25 +0000</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+  </channel>
+</rss>
